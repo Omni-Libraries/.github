@@ -68,11 +68,11 @@ We believe that open-source projects thrive through collaboration. Whether you'r
 - Open a pull request with your contributions.
 
 ### 💬 Join the Community
-- **Discord:** [Join Our Community](https://discord.gg/BQrvDpcw)
+- **Discord:** [Join Our Community](https://discord.gg/vyfcRcuwkG)
 - **GitHub Issues:** Share your thoughts, bugs, and feature requests.
 
 <p align="center">
-    <a href="https://discord.gg/BQrvDpcw">
+    <a href="https://discord.gg/vyfcRcuwkG">
         <img src="https://img.shields.io/badge/Community-Join%20Us-blueviolet" alt="Community Discord"/>
     </a>
     <a href="https://github.com/Omni-Libraries/omni-authify/issues">
@@ -93,7 +93,7 @@ If you have questions or need clarification, feel free to open an issue or reach
 
 ## 🌐 Connect with Us
 - **GitHub:** [Omni-Libraries Organization](https://github.com/Omni-Libraries)
-- **Community:** [Discord](https://discord.gg/BQrvDpcw)
+- **Community:** [Discord](https://discord.gg/vyfcRcuwkG)
 - **PyPI:** [Omni-Authify](https://pypi.org/project/omni-authify/)
 
 <p align="center">
